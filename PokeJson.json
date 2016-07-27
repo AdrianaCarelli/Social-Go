@@ -1,0 +1,814 @@
+{
+  "pokemons": {
+    "bulbasaur": {
+      "id": 1,
+      "groups": {
+        "grass": true,
+        "poison": true
+      },
+      "common": 4,
+      "name": "Bulbasaur"
+    },
+    "ivysaur": {
+      "id": 2,
+      "groups": {
+        "grass": true,
+        "poison": true
+      },
+      "common": 2,
+      "name": "Ivysaur"
+    },
+    "venusaur": {
+      "id": 3,
+      "groups": {
+        "grass": true,
+        "poison": true
+      },
+      "common": 1,
+      "name": "Venusaur"
+    },
+    "charmander": {
+      "id": 4,
+      "groups": {
+        "fire": true
+      },
+      "common": 4,
+      "name": "Charmander"
+    },
+    "charmeleon": {
+      "id": 5,
+      "groups": {
+        "fire": true
+      },
+      "common": 2,
+      "name": "Charmeleon"
+    },
+    "charizard": {
+      "id": 6,
+      "groups": {
+        "fire": true
+      },
+      "common": 1,
+      "name": "Charizard"
+    },
+    "squirtle": {
+      "id": 7,
+      "groups": {
+        "water": true
+      },
+      "common": 4,
+      "name": "Squirtle"
+    },
+    "wartortle": {
+      "id": 8,
+      "groups": {
+        "water": true
+      },
+      "common": 2,
+      "name": "Wartortle"
+    },
+    "blastoise": {
+      "id": 9,
+      "groups": {
+        "water": true
+      },
+      "common": 3,
+      "name": "Blastoise"
+    },
+    "caterpie": {
+      "id": 10,
+      "name": "Caterpie",
+      "common": 10
+    },
+    "metapod": {
+      "common": 8,
+      "id": 11,
+      "name": "Metapod"
+    },
+    "butterfree": {
+      "common": 5,
+      "id": 12,
+      "name": "Butterfree"
+    },
+    "weedle": {
+      "common": 10,
+      "id": 13,
+      "name": "Weedle"
+    },
+    "kakuna": {
+      "common": 8,
+      "id": 14,
+      "name": "Kakuna"
+    },
+    "beedrill": {
+      "common": 5,
+      "id": 15,
+      "name": "Beedrill"
+    },
+    "pidgey": {
+      "common": 10,
+      "id": 16,
+      "name": "Pidgey"
+    },
+    "pidgeotto": {
+      "common": 8,
+      "id": 17,
+      "name": "Pidgeotto"
+    },
+    "pidgeot": {
+      "common": 5,
+      "id": 18,
+      "name": "Pidgeot"
+    },
+    "rattata": {
+      "common": 10,
+      "id": 19,
+      "name": "Rattata"
+    },
+    "raticate": {
+      "common": 8,
+      "id": 20,
+      "name": "Raticate"
+    },
+    "spearow": {
+      "common": 9,
+      "id": 21,
+      "name": "Spearow"
+    },
+    "fearow": {
+      "common": 5,
+      "id": 22,
+      "name": "Fearow"
+    },
+    "ekans": {
+      "common": 9,
+      "id": 23,
+      "name": "Ekans"
+    },
+    "arbok": {
+      "common": 5,
+      "id": 24,
+      "name": "Arbok"
+    },
+    "pikachu": {
+      "common": 8,
+      "id": 25,
+      "name": "Pikachu"
+    },
+    "raichu": {
+      "common": 3,
+      "id": 26,
+      "name": "Raichu"
+    },
+    "sandshrew": {
+      "common": 8,
+      "id": 27,
+      "name": "Sandshrew"
+    },
+    "sandslash": {
+      "common": 4,
+      "id": 28,
+      "name": "Sandslash"
+    },
+    "nidoran": {
+      "common": 7,
+      "id": 29,
+      "name": "Nidoran"
+    },
+    "nidorina": {
+      "common": 7,
+      "id": 30,
+      "name": "Nidorina"
+    },
+    "nidoqueen": {
+      "common": 3,
+      "id": 31,
+      "name": "Nidoqueen"
+    },
+    "nidorino": {
+      "common": 5,
+      "id": 33,
+      "name": "Nidorino"
+    },
+    "nidoking": {
+      "common": 3,
+      "id": 34,
+      "name": "Nidoking"
+    },
+    "clefairy": {
+      "common": 8,
+      "id": 35,
+      "name": "Clefairy"
+    },
+    "clefable": {
+      "common": 3,
+      "id": 36,
+      "name": "Clefable"
+    },
+    "vulpix": {
+      "common": 8,
+      "id": 37,
+      "name": "Vulpix"
+    },
+    "ninetales": {
+      "common": 3,
+      "id": 38,
+      "name": "Ninetales"
+    },
+    "jigglypuff": {
+      "common": 7,
+      "id": 39,
+      "name": "Jigglypuff"
+    },
+    "wigglytuff": {
+      "common": 3,
+      "id": 40,
+      "name": "Wigglytuff"
+    },
+    "zubat": {
+      "common": 10,
+      "id": 41,
+      "name": "Zubat"
+    },
+    "golbat": {
+      "common": 7,
+      "id": 42,
+      "name": "Golbat"
+    },
+    "oddish": {
+      "common": 9,
+      "id": 43,
+      "name": "Oddish"
+    },
+    "gloom": {
+      "common": 4,
+      "id": 44,
+      "name": "Gloom"
+    },
+    "vileplume": {
+      "common": 3,
+      "id": 45,
+      "name": "Vileplume"
+    },
+    "paras": {
+      "common": 10,
+      "id": 46,
+      "name": "Paras"
+    },
+    "parasect": {
+      "common": 9,
+      "id": 47,
+      "name": "Parasect"
+    },
+    "venonat": {
+      "common": 10,
+      "id": 48,
+      "name": "Venonat"
+    },
+    "venomoth": {
+      "common": 4,
+      "id": 49,
+      "name": "Venomoth"
+    },
+    "diglett": {
+      "common": 9,
+      "id": 50,
+      "name": "Diglett"
+    },
+    "dugtrio": {
+      "common": 4,
+      "id": 51,
+      "name": "Dugtrio"
+    },
+    "meowth": {
+      "common": 10,
+      "id": 52,
+      "name": "Meowth"
+    },
+    "persian": {
+      "common": 4,
+      "id": 53,
+      "name": "Persian"
+    },
+    "psyduck": {
+      "common": 8,
+      "id": 54,
+      "name": "Psyduck"
+    },
+    "golduck": {
+      "common": 3,
+      "id": 55,
+      "name": "Golduck"
+    },
+    "mankey": {
+      "common": 10,
+      "id": 56,
+      "name": "Mankey"
+    },
+    "primeape": {
+      "common": 5,
+      "id": 57,
+      "name": "Primeape"
+    },
+    "growlithe": {
+      "common": 8,
+      "id": 58,
+      "name": "Growlithe"
+    },
+    "arcanine": {
+      "common": 3,
+      "id": 59,
+      "name": "Arcanine"
+    },
+    "poliwag": {
+      "common": 8,
+      "id": 60,
+      "name": "Poliwag"
+    },
+    "poliwhirl": {
+      "common": 5,
+      "id": 61,
+      "name": "Poliwhirl"
+    },
+    "poliwrath": {
+      "common": 3,
+      "id": 62,
+      "name": "Poliwrath"
+    },
+    "abra": {
+      "common": 8,
+      "id": 63,
+      "name": "Abra"
+    },
+    "kadabra": {
+      "common": 5,
+      "id": 64,
+      "name": "Kadabra"
+    },
+    "alakazam": {
+      "common": 3,
+      "id": 65,
+      "name": "Alakazam"
+    },
+    "machop": {
+      "common": 9,
+      "id": 66,
+      "name": "Machop"
+    },
+    "machoke": {
+      "common": 7,
+      "id": 67,
+      "name": "Machoke"
+    },
+    "machamp": {
+      "common": 3,
+      "id": 68,
+      "name": "Machamp"
+    },
+    "bellsprout": {
+      "common": 8,
+      "id": 69,
+      "name": "Bellsprout"
+    },
+    "weepinbell": {
+      "common": 5,
+      "id": 70,
+      "name": "Weepinbell"
+    },
+    "victreebel": {
+      "common": 3,
+      "id": 71,
+      "name": "Victreebel"
+    },
+    "tentacool": {
+      "common": 9,
+      "id": 72,
+      "name": "Tentacool"
+    },
+    "tentacruel": {
+      "common": 5,
+      "id": 73,
+      "name": "Tentacruel"
+    },
+    "geodude": {
+      "common": 10,
+      "id": 74,
+      "name": "Geodude"
+    },
+    "graveler": {
+      "common": 5,
+      "id": 75,
+      "name": "Graveler"
+    },
+    "golem": {
+      "common": 3,
+      "id": 76,
+      "name": "Golem"
+    },
+    "ponyta": {
+      "common": 8,
+      "id": 77,
+      "name": "Ponyta"
+    },
+    "rapidash": {
+      "common": 4,
+      "id": 78,
+      "name": "Rapidash"
+    },
+    "slowpoke": {
+      "common": 9,
+      "id": 79,
+      "name": "Slowpoke"
+    },
+    "slowbro": {
+      "common": 7,
+      "id": 80,
+      "name": "Slowbro"
+    },
+    "magnemite": {
+      "common": 9,
+      "id": 81,
+      "name": "Magnemite"
+    },
+    "magneton": {
+      "common": 5,
+      "id": 82,
+      "name": "Magneton"
+    },
+    "farfetchd": {
+      "common": 3,
+      "id": 83,
+      "name": "Farfetch'd"
+    },
+    "doduo": {
+      "common": 10,
+      "id": 84,
+      "name": "Doduo"
+    },
+    "dodrio": {
+      "common": 5,
+      "id": 85,
+      "name": "Dodrio"
+    },
+    "seel": {
+      "common": 8,
+      "id": 86,
+      "name": "Seel"
+    },
+    "dewgong": {
+      "common": 5,
+      "id": 87,
+      "name": "Dewgong"
+    },
+    "grimer": {
+      "common": 8,
+      "id": 88,
+      "name": "Grimer"
+    },
+    "muk": {
+      "common": 4,
+      "id": 89,
+      "name": "Muk"
+    },
+    "shellder": {
+      "common": 9,
+      "id": 90,
+      "name": "Shellder"
+    },
+    "cloyster": {
+      "common": 4,
+      "id": 91,
+      "name": "Cloyster"
+    },
+    "gastly": {
+      "common": 8,
+      "id": 92,
+      "name": "Gastly"
+    },
+    "haunter": {
+      "common": 3,
+      "id": 93,
+      "name": "Haunter"
+    },
+    "gengar": {
+      "common": 8,
+      "id": 94,
+      "name": "Gengar"
+    },
+    "onix": {
+      "common": 9,
+      "id": 95,
+      "name": "Onix"
+    },
+    "drowzee": {
+      "common": 8,
+      "id": 96,
+      "name": "Drowzee"
+    },
+    "hypno": {
+      "common": 4,
+      "id": 97,
+      "name": "Hypno"
+    },
+    "krabby": {
+      "common": 10,
+      "id": 98,
+      "name": "Krabby"
+    },
+    "kingler": {
+      "common": 7,
+      "id": 99,
+      "name": "Kingler"
+    },
+    "voltorb": {
+      "common": 7,
+      "id": 100,
+      "name": "Voltorb"
+    },
+    "electrode": {
+      "common": 4,
+      "id": 101,
+      "name": "Electrode"
+    },
+    "exeggcute": {
+      "common": 9,
+      "id": 102,
+      "name": "Exeggcute"
+    },
+    "exeggutor": {
+      "common": 4,
+      "id": 103,
+      "name": "Exeggutor"
+    },
+    "cubone": {
+      "common": 9,
+      "id": 104,
+      "name": "Cubone"
+    },
+    "marowak": {
+      "common": 4,
+      "id": 105,
+      "name": "Marowak"
+    },
+    "hitmonlee": {
+      "common": 7,
+      "id": 106,
+      "name": "Hitmonlee"
+    },
+    "hitmonchan": {
+      "common": 3,
+      "id": 107,
+      "name": "Hitmonchan"
+    },
+    "lickitung": {
+      "common": 7,
+      "id": 108,
+      "name": "Lickitung"
+    },
+    "koffing": {
+      "common": 8,
+      "id": 109,
+      "name": "Koffing"
+    },
+    "weezing": {
+      "common": 5,
+      "id": 110,
+      "name": "Weezing"
+    },
+    "rhyhorn": {
+      "common": 7,
+      "id": 111,
+      "name": "Rhyhorn"
+    },
+    "rhydon": {
+      "common": 4,
+      "id": 112,
+      "name": "Rhydon"
+    },
+    "chansey": {
+      "common": 7,
+      "id": 113,
+      "name": "Chansey"
+    },
+    "tangela": {
+      "common": 7,
+      "id": 114,
+      "name": "Tangela"
+    },
+    "kangaskhan": {
+      "common": 7,
+      "id": 115,
+      "name": "Kangaskhan"
+    },
+    "horsea": {
+      "common": 7,
+      "id": 116,
+      "name": "Horsea"
+    },
+    "seadra": {
+      "common": 4,
+      "id": 117,
+      "name": "Seadra"
+    },
+    "goldeen": {
+      "common": 7,
+      "id": 118,
+      "name": "Goldeen"
+    },
+    "seaking": {
+      "common": 3,
+      "id": 119,
+      "name": "Seaking"
+    },
+    "staryu": {
+      "common": 10,
+      "id": 120,
+      "name": "Staryu"
+    },
+    "starmie": {
+      "common": 7,
+      "id": 121,
+      "name": "Starmie"
+    },
+    "mrmime": {
+      "common": 5,
+      "id": 122,
+      "name": "Mr. Mime"
+    },
+    "scyther": {
+      "common": 7,
+      "id": 123,
+      "name": "Scyther"
+    },
+    "jynx": {
+      "common": 6,
+      "id": 124,
+      "name": "Jynx"
+    },
+    "electabuzz": {
+      "common": 5,
+      "id": 125,
+      "name": "Electabuzz"
+    },
+    "magmar": {
+      "common": 4,
+      "id": 126,
+      "name": "Magmar"
+    },
+    "pinsir": {
+      "common": 5,
+      "id": 127,
+      "name": "Pinsir"
+    },
+    "tauros": {
+      "common": 7,
+      "id": 128,
+      "name": "Tauros"
+    },
+    "magikarp": {
+      "common": 9,
+      "id": 129,
+      "name": "Magikarp"
+    },
+    "gyarados": {
+      "common": 3,
+      "id": 130,
+      "name": "Gyarados"
+    },
+    "lapras": {
+      "common": 4,
+      "id": 131,
+      "name": "Lapras"
+    },
+    "ditto": {
+      "common": 0,
+      "id": 132,
+      "name": "Ditto"
+    },
+    "eevee": {
+      "common": 9,
+      "id": 133,
+      "name": "Eevee"
+    },
+    "vaporeon": {
+      "common": 3,
+      "id": 134,
+      "name": "Vaporeon"
+    },
+    "jolteon": {
+      "common": 3,
+      "id": 135,
+      "name": "Jolteon"
+    },
+    "flareon": {
+      "common": 3,
+      "id": 136,
+      "name": "Flareon"
+    },
+    "porygon": {
+      "common": 6,
+      "id": 137,
+      "name": "Porygon"
+    },
+    "omanyte": {
+      "common": 5,
+      "id": 138,
+      "name": "Omanyte"
+    },
+    "omastar": {
+      "common": 3,
+      "id": 139,
+      "name": "Omastar"
+    },
+    "kabuto": {
+      "common": 5,
+      "id": 140,
+      "name": "Kabuto"
+    },
+    "kabutops": {
+      "common": 3,
+      "id": 141,
+      "name": "Kabutops"
+    },
+    "aerodactyl": {
+      "common": 5,
+      "id": 142,
+      "name": "Aerodactyl"
+    },
+    "snorlax": {
+      "common": 7,
+      "id": 143,
+      "name": "Snorlax"
+    },
+    "articuno": {
+      "common": 0,
+      "id": 144,
+      "name": "Articuno"
+    },
+    "zapdos": {
+      "common": 0,
+      "id": 145,
+      "name": "Zapdos"
+    },
+    "moltres": {
+      "common": 0,
+      "id": 146,
+      "name": "Moltres"
+    },
+    "dratini": {
+      "common": 1,
+      "id": 147,
+      "name": "Dratini"
+    },
+    "dragonair": {
+      "common": 1,
+      "id": 148,
+      "name": "Dragonair"
+    },
+    "dragonite": {
+      "common": 1,
+      "id": 149,
+      "name": "Dragonite"
+    },
+    "mewtwo": {
+      "common": 0,
+      "id": 150,
+      "name": "Mewtwo"
+    },
+    "mew": {
+      "common": 0,
+      "id": 151,
+      "name": "Mew"
+    }
+  },
+  "groups": {
+    "grass": {
+      "members": {
+        "bulbasaur": true,
+        "ivysaur": true,
+        "venusaur": true
+      }
+    },
+    "poison": {
+      "members": {
+        "bulbasaur": true,
+        "ivysaur": true,
+        "venusaur": true
+      }
+    },
+    "fire": {
+      "members": {
+        "charmander": true,
+        "charmeleon": true,
+        "charizard": true
+      }
+    },
+    "water": {
+      "members": {
+        "squirtle": true,
+        "wartortle": true,
+        "blastoise": true
+      }
+    }
+  }
+}

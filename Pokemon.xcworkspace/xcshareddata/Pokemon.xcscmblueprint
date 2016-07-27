@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "857D4E1463C3CA46F561320B1BBE917CD2B7C455",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "78BC981234DC9ACF745E820B97CE28D46F6D69E7" : 0,
+    "857D4E1463C3CA46F561320B1BBE917CD2B7C455" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "083CE6EE-D875-4CF2-9EDF-BC60C55918EA",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "78BC981234DC9ACF745E820B97CE28D46F6D69E7" : "Pokemon\/geofire-objc\/",
+    "857D4E1463C3CA46F561320B1BBE917CD2B7C455" : "Pokemon\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Pokemon",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Pokemon.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/firebase\/geofire-objc.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "78BC981234DC9ACF745E820B97CE28D46F6D69E7"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/kingreza\/pokemon.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "857D4E1463C3CA46F561320B1BBE917CD2B7C455"
+    }
+  ]
+}
