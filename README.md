@@ -5,6 +5,9 @@ Social Go is a crowd sourced Pokemon radar and anonymous chat app for the iOS. I
 ![Anonymous chat with every player wihtin a 5 mile radius](https://s3-us-west-2.amazonaws.com/reza-light/gif3.gif "Anonymous Chat")
 ![Live update of the map](https://s3-us-west-2.amazonaws.com/reza-light/gif4.gif "Live Update")
 ![Select Pokemon to broadcast its location](https://s3-us-west-2.amazonaws.com/reza-light/poke6.gif "Broadcast Pokemon Locationt")
+
+[![Download it from the App Store](https://s3-us-west-2.amazonaws.com/reza-light/download.svg)](https://itunes.apple.com/us/app/social-go-social-app-for-pokemon/id1136129726?ls=1&mt=8)
+
 ## Installation
 1. run `git clone https://github.com/kingreza/Social-Go.git`
 2. run `Pod install`
@@ -26,4 +29,7 @@ Social Go is minimal in features and the code should be rather easy to follow. U
 
 ## Credits
 [Reza Shirazian](http://www.reza.codes) **[@KingReza](http://www.twitter.com/kingreza)**
+
+[![Download it from the App Store](https://s3-us-west-2.amazonaws.com/reza-light/download.svg)](https://itunes.apple.com/us/app/social-go-social-app-for-pokemon/id1136129726?ls=1&mt=8)
+
 
