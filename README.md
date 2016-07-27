@@ -6,11 +6,11 @@ Anonymous chat with every player wihtin a 5 mile radius:
 
 ![Anonymous chat with every player wihtin a 5 mile radius](https://s3-us-west-2.amazonaws.com/reza-light/gif3.gif "Anonymous Chat")
 
-Live update of the map:
+Live update on the map:
 
 ![Live update on the map](https://s3-us-west-2.amazonaws.com/reza-light/gif4.gif "Live Update")
 
-Select Pokemon and broadcast its location to the world:
+Select a Pokemon and broadcast its location to the world:
 
 ![Select Pokemon to broadcast its location](https://s3-us-west-2.amazonaws.com/reza-light/poke6.gif "Broadcast Pokemon Location")
 
