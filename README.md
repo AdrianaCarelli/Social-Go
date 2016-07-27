@@ -2,9 +2,17 @@
 
 Social Go is a crowd sourced Pokemon radar and anonymous chat app for the iOS. It is built using Swift 2.2 and uses [Firebase](https://firebase.google.com/), [JSQMessagesViewController](https://github.com/jessesquires/JSQMessagesViewController) and [Google Maps](https://developers.google.com/maps/documentation/ios-sdk/).  
 
+Anonymous chat with every player wihtin a 5 mile radius:
+
 ![Anonymous chat with every player wihtin a 5 mile radius](https://s3-us-west-2.amazonaws.com/reza-light/gif3.gif "Anonymous Chat")
-![Live update of the map](https://s3-us-west-2.amazonaws.com/reza-light/gif4.gif "Live Update")
-![Select Pokemon to broadcast its location](https://s3-us-west-2.amazonaws.com/reza-light/poke6.gif "Broadcast Pokemon Locationt")
+
+Live update of the map:
+
+![Live update on the map](https://s3-us-west-2.amazonaws.com/reza-light/gif4.gif "Live Update")
+
+Select Pokemon and broadcast its location to the world:
+
+![Select Pokemon to broadcast its location](https://s3-us-west-2.amazonaws.com/reza-light/poke6.gif "Broadcast Pokemon Location")
 
 [![Download it from the App Store](https://s3-us-west-2.amazonaws.com/reza-light/download.svg)](https://itunes.apple.com/us/app/social-go-social-app-for-pokemon/id1136129726?ls=1&mt=8)
 
